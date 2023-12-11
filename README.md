@@ -1,3 +1,5 @@
+https://public.tableau.com/views/AirbnbBookingsAnalysis-CapstoneProject/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
+
 # Airbnb_Bookings_Analysis_Capstone_Project
 Airbnb Bookings Analysis - Capstone Project
 
